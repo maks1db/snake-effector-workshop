@@ -1,4 +1,4 @@
-export const CELL_PX = 20;
+export const CELL_PX = 25;
 
 export const GAME_CELLS = 25;
 export const GAME_SPEED = 12;
