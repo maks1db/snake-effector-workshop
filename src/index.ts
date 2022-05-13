@@ -1,1 +1,3 @@
-console.log('SNAKE GAME...')
+import { init } from './init';
+
+init();
